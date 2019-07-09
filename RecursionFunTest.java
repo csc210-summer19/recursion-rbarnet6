@@ -6,7 +6,7 @@
 // -- duplicateElement(E)
 // -- private boolean findExit(int row, int col) 
 //
-// Programmer: Rick Mercer
+// Programmer: Rick Mercer and Ray Barnett
 //
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
